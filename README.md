@@ -57,7 +57,7 @@ Additional map options will be added to the package as needed and tested.
 You can easily install the package via Composer:
 
 ```bash
-composer require dotswan/filament-map-picker
+composer require jumanjicode/filament-map-picker
 ```
 
 ## Basic Usage
